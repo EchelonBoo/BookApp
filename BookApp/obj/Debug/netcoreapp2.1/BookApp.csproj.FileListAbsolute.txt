@@ -1,0 +1,11 @@
+C:\Users\betha\Desktop\BookApp\BookApp\bin\Debug\netcoreapp2.1\BookApp.deps.json
+C:\Users\betha\Desktop\BookApp\BookApp\bin\Debug\netcoreapp2.1\BookApp.runtimeconfig.json
+C:\Users\betha\Desktop\BookApp\BookApp\bin\Debug\netcoreapp2.1\BookApp.runtimeconfig.dev.json
+C:\Users\betha\Desktop\BookApp\BookApp\bin\Debug\netcoreapp2.1\BookApp.dll
+C:\Users\betha\Desktop\BookApp\BookApp\bin\Debug\netcoreapp2.1\BookApp.pdb
+C:\Users\betha\Desktop\BookApp\BookApp\obj\Debug\netcoreapp2.1\BookApp.csprojAssemblyReference.cache
+C:\Users\betha\Desktop\BookApp\BookApp\obj\Debug\netcoreapp2.1\BookApp.csproj.CoreCompileInputs.cache
+C:\Users\betha\Desktop\BookApp\BookApp\obj\Debug\netcoreapp2.1\BookApp.AssemblyInfoInputs.cache
+C:\Users\betha\Desktop\BookApp\BookApp\obj\Debug\netcoreapp2.1\BookApp.AssemblyInfo.cs
+C:\Users\betha\Desktop\BookApp\BookApp\obj\Debug\netcoreapp2.1\BookApp.dll
+C:\Users\betha\Desktop\BookApp\BookApp\obj\Debug\netcoreapp2.1\BookApp.pdb
